@@ -1,9 +1,6 @@
-
+# ToDoList
 
 ![](https://user-images.githubusercontent.com/65500826/151015658-57030828-4696-4d5c-8c07-0f5a69f45544.png)
-
-
-# ToDoList
 
 A simple To-do list app build for iPhone, iPad.
 
